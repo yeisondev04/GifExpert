@@ -8,7 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+<<<<<<< HEAD
 tomy
+=======
+tomy/to-my-princess_2.0
+>>>>>>> 185c9b0c253ace4216e2ad8e7d54028e49f181f7
 dist
 dist-ssr
 *.local
